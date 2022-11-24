@@ -1,0 +1,17 @@
+body{
+    background-color: darkslategrey;
+}
+
+.titres{
+    color: darkorange;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.texte{
+    color: white;
+}
+
+#ita{
+    font-style: italic;
+}
